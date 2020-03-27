@@ -163,6 +163,7 @@ export default {
   border-radius: $border-radius-base;
   border: 1px solid $color-neutral-70;
   background-color: $color-neutral-90;
+  user-select: none;
 
   > .content {
     width: 100%;
